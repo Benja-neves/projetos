@@ -1,0 +1,22 @@
+[
+    {
+        "jogador": "Vinicius",
+        "tesouros": 4,
+        "peso": 11
+    },
+    {
+        "jogador": "Benjamin 2",
+        "tesouros": 6,
+        "peso": 7
+    },
+    {
+        "jogador": "BEN",
+        "tesouros": 3,
+        "peso": 3
+    },
+    {
+        "jogador": "BEN2",
+        "tesouros": 2,
+        "peso": 3
+    }
+]
